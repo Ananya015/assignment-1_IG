@@ -23,3 +23,33 @@ width: auto;
 border-radius: 50%;
 margin-right: 200px;
 }
+
+.sec-3{
+    
+    padding: 20px;
+    margin-right: 0;
+}
+.sec-3 ul li{
+    list-style: none;
+    /* display: inline-block; */
+   margin-bottom: 5px;
+    height: 60px;
+    width: 60px;
+    background-color: gray;
+    border-radius: 50%;
+   
+
+}
+
+.sec-3 ul li i{
+    list-style: none;
+    margin:20px;
+    font-size: 25px;
+    line-height: 20px;
+    text-align: center;
+    color: white;
+
+}
+.sec-3 ul li:hover{
+ background-color:rgb(131, 131, 0);
+}
