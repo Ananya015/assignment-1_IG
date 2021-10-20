@@ -24,6 +24,12 @@ border-radius: 50%;
 margin-right: 200px;
 }
 
+#about{
+    background-color: rgb(230, 230, 230); 
+    padding: 10px;
+    
+}
+
 .sec-3{
     
     padding: 20px;
@@ -107,6 +113,19 @@ margin-right: 200px;
     background-image: linear-gradient(white,purple);
 }
 
-
+.contact {
+    padding-bottom: 130px;
+  }
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
 
 
